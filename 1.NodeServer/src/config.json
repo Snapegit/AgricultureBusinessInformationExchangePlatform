@@ -1,0 +1,16 @@
+{
+  "port": 8080,
+  "bodyLimit": "100000kb",
+  "corsHeaders": [
+    "Link"
+  ],
+  "projectName": "cl15067209",
+  "dbConnection": {
+    "dbtype": "mysql",
+    "database": "cl15067209",
+    "username": "root",
+    "password": "root"
+  },
+  "sessionSecret": "xiezn",
+  "jwtSecret": "xiezn"
+}
